@@ -1,0 +1,47 @@
+.cent {
+  text-align: center;
+}
+.ita {
+  font-style: italic;
+}
+.ceni {
+  display: block;
+  margin: auto;
+}
+.bgcolor {
+  background-color: black;
+}
+.font {
+  color: #3b5998;
+}
+.bord {
+  border: 3px solid #3b5998;
+  border-style: ridge;
+  border-radius: 25px;
+}
+.dimension {
+  width: 75%;
+}
+.bgcolor1 {
+  background-color: #ececfc;
+}
+.text {
+  font-family: Courier;
+}
+.text1 {
+  font-family: Arial;
+  font-size: 1.1em;
+  font-weight: bold;
+}
+.align {
+  text-align: right;
+}
+.bgcolor2 {
+  background-color: black;
+}
+.text2 {
+  font-size: 1.1em;
+}
+.font1 {
+  color: white;
+}
